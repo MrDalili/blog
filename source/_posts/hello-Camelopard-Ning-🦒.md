@@ -1,7 +1,9 @@
 ---
 title: "hello Camelopard Ning \U0001F992"
 date: 2019-06-04 17:20:31
-tags:
+tags: 
+- 随笔
+categories: 随笔
 ---
 
 
