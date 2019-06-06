@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5cf83dd-51af-4476-b149-07e96af1a6e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/白嫖七牛云.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/白嫖七牛云.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -20,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/、equals、hashcode的区别与联系.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="161">
-                <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+              <first_editor>
+                <caret selection-end-line="7" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -32,8 +31,8 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/白嫖七牛云.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="253">
-                <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <first_editor relative-caret-position="207">
+                <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
               </first_editor>
               <second_editor />
             </state>
@@ -72,9 +71,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1357" />
-    <option name="width" value="1388" />
-    <option name="height" value="1775" />
+    <option name="x" value="531" />
+    <option name="y" value="120" />
+    <option name="width" value="1854" />
+    <option name="height" value="1850" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -151,15 +151,15 @@
       <workItem from="1559639836452" duration="3000" />
       <workItem from="1559653905631" duration="701000" />
       <workItem from="1559745041501" duration="2423000" />
-      <workItem from="1559778340738" duration="8262000" />
+      <workItem from="1559778340738" duration="8657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12076000" />
+    <option name="totallyTimeSpent" value="12471000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="905" y="0" width="925" height="1183" extended-state="0" />
+    <frame x="354" y="80" width="1236" height="1233" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5005624" />
@@ -179,7 +179,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.33396766" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.31880108" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="JRebel Console" order="12" side_tool="true" />
@@ -315,8 +315,8 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/、equals、hashcode的区别与联系.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="161">
-            <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+          <first_editor>
+            <caret selection-end-line="7" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -325,8 +325,8 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/白嫖七牛云.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="253">
-            <caret line="11" column="13" lean-forward="true" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <first_editor relative-caret-position="207">
+            <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
           </first_editor>
           <second_editor />
         </state>
