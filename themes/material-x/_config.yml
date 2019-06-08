@@ -157,10 +157,6 @@ sidebar:
         icon: fas fa-link
         url: friends/
         rel: nofollow
-      - name: 主题文档
-        icon: fas fa-book
-        url: https://xaoxuu.com/wiki/material-x/
-        rel: nofollow
       - name: 关于小站
         icon: fas fa-info-circle
         url: about/
@@ -227,8 +223,11 @@ share:
 
 
 ############################### 评论系统 ###############################
+#评论
+livere:
+  on: true
+  livere_uid: MTAyMC80NDYyNi8yMTE1NQ #要使用哪个请复制到根目录配置文件！
 # disqus_shortname: 要使用哪个请复制到根目录配置文件！
-# livere_uid: 要使用哪个请复制到根目录配置文件！
 # gitalk: 要使用哪个请复制到根目录配置文件！
 #   clientID: 你的clientID
 #   clientSecret: 你的clientSecret
@@ -279,3 +278,4 @@ search:
 # Less渲染
 less:
   compress: true
+

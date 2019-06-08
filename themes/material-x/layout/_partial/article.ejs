@@ -72,6 +72,8 @@
     </article>
   <% } else if (sectionName == 'comments') { %>
     <%- partial('../_third-party/' + sectionName) %>
+  <% } else if (theme.livere.on) { %>
+      <%- partial('livere.ejs') %>
   <% } else { %>
     <% theme.sidebar.forEach(function(item){ %>
       <% if (item.widget == sectionName) { %>
