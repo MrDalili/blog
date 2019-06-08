@@ -271,9 +271,10 @@ search:
   azure_query_key:
   # baidu
   baidu_api_id: 13530543
-  baidu_analytics_key: 13530543
+
 
 # Less渲染
 less:
   compress: true
 
+baidu_analytics_key: 13530543
