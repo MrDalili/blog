@@ -223,10 +223,7 @@ share:
 
 
 ############################### 评论系统 ###############################
-#评论
-livere:
-  on: true
-  livere_uid: MTAyMC80NDYyNi8yMTE1NQ #要使用哪个请复制到根目录配置文件！
+
 # disqus_shortname: 要使用哪个请复制到根目录配置文件！
 # gitalk: 要使用哪个请复制到根目录配置文件！
 #   clientID: 你的clientID
@@ -273,7 +270,7 @@ search:
   azure_index_name:
   azure_query_key:
   # baidu
-  baidu_api_id:
+  baidu_api_id: 13530543
 
 # Less渲染
 less:
