@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5cf83dd-51af-4476-b149-07e96af1a6e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/material-x/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/material-x/_config.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -65,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/material-x/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="276" column="5" lean-forward="true" selection-start-line="276" selection-start-column="5" selection-end-line="276" selection-end-column="5" />
+            <state relative-caret-position="582">
+              <caret line="275" selection-start-line="275" selection-end-line="277" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -83,20 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="521">
-              <caret line="84" selection-start-line="84" selection-end-line="84" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/material-x/layout/_partial/article.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="301">
-              <caret line="70" column="16" lean-forward="true" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
+              <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
             </state>
           </provider>
         </entry>
@@ -112,9 +101,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>comments</find>
       <find>baidu_api_id</find>
       <find>baidu_analytics_key</find>
+      <find>comments</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -144,8 +133,8 @@
         <option value="$PROJECT_DIR$/themes/material-x/layout/_partial/livere.ejs.js" />
         <option value="$PROJECT_DIR$/themes/material-x/layout/_partial/livere.ejs" />
         <option value="$PROJECT_DIR$/themes/material-x/layout/_partial/article.ejs" />
-        <option value="$PROJECT_DIR$/themes/material-x/_config.yml" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/themes/material-x/_config.yml" />
       </list>
     </option>
   </component>
@@ -256,12 +245,12 @@
       <workItem from="1559823617737" duration="1697000" />
       <workItem from="1559828111463" duration="3000" />
       <workItem from="1559908508711" duration="4135000" />
-      <workItem from="1559963208642" duration="7670000" />
+      <workItem from="1559963208642" duration="7911000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41125000" />
+    <option name="totallyTimeSpent" value="41366000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1839" height="1191" extended-state="6" />
@@ -526,22 +515,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/material-x/layout/_partial/article.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="70" column="16" lean-forward="true" selection-start-line="70" selection-start-column="16" selection-end-line="70" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/material-x/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="276" column="5" lean-forward="true" selection-start-line="276" selection-start-column="5" selection-end-line="276" selection-end-column="5" />
+        <state relative-caret-position="214">
+          <caret line="87" column="2" lean-forward="true" selection-start-line="87" selection-start-column="2" selection-end-line="87" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="521">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/material-x/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="275" selection-start-line="275" selection-end-line="277" selection-end-column="4" />
         </state>
       </provider>
     </entry>
