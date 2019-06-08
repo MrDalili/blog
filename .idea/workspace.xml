@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b5cf83dd-51af-4476-b149-07e96af1a6e7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2019-6-7英语单词.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2019-6-7英语单词.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/markdown的语法以及使用.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/markdown的语法以及使用.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/买卖股票的最佳时机II.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/买卖股票的最佳时机II.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -46,8 +44,8 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/开启算法学习的坑.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="184">
-                <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <first_editor relative-caret-position="414">
+                <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
               </first_editor>
               <second_editor />
             </state>
@@ -186,12 +184,12 @@
       <workItem from="1559823617737" duration="1697000" />
       <workItem from="1559828111463" duration="3000" />
       <workItem from="1559908508711" duration="4135000" />
-      <workItem from="1559963208642" duration="2349000" />
+      <workItem from="1559963208642" duration="2640000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35804000" />
+    <option name="totallyTimeSpent" value="36095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1839" height="1191" extended-state="6" />
@@ -429,8 +427,8 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/开启算法学习的坑.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="184">
-            <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <first_editor relative-caret-position="414">
+            <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
           </first_editor>
           <second_editor />
         </state>
