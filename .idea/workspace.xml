@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b5cf83dd-51af-4476-b149-07e96af1a6e7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/2019-6-11英语学习.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/2019-6-11英语学习.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,11 +39,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/source/_posts/一篇四级的救命作文.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="230">
+              <first_editor relative-caret-position="185">
                 <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
               </first_editor>
               <second_editor />
@@ -52,12 +51,12 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/source/_posts/2019-6-11英语学习.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="552">
-                <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+              <first_editor relative-caret-position="1081">
+                <caret line="47" selection-start-line="47" selection-end-line="47" />
               </first_editor>
               <second_editor />
             </state>
@@ -146,10 +145,10 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/themes/material-x/_config.yml" />
         <option value="$PROJECT_DIR$/source/_posts/从什a参加服包c»感想.md" />
-        <option value="$PROJECT_DIR$/source/_posts/一篇四级的救命作文.md" />
         <option value="$PROJECT_DIR$/source/_posts/参加服包感想.md" />
         <option value="$PROJECT_DIR$/source/_posts/tomcat配置jks安装证书.md" />
         <option value="$PROJECT_DIR$/source/_posts/2019-6-11英语学习.md" />
+        <option value="$PROJECT_DIR$/source/_posts/一篇四级的救命作文.md" />
       </list>
     </option>
   </component>
@@ -266,11 +265,13 @@
       <workItem from="1560155776680" duration="974000" />
       <workItem from="1560232862713" duration="1492000" />
       <workItem from="1560322904550" duration="149000" />
+      <workItem from="1560518082435" duration="140000" />
+      <workItem from="1560609991082" duration="210000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50950000" />
+    <option name="totallyTimeSpent" value="51300000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1839" height="1191" extended-state="6" />
@@ -535,11 +536,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/一篇四级的救命作文.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/2019-6-11英语学习.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="230">
-            <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <first_editor relative-caret-position="1081">
+            <caret line="47" selection-start-line="47" selection-end-line="47" />
           </first_editor>
           <second_editor />
         </state>
@@ -575,11 +576,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/source/_posts/2019-6-11英语学习.md">
+    <entry file="file://$PROJECT_DIR$/source/_posts/一篇四级的救命作文.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="552">
-            <caret line="24" column="11" selection-start-line="24" selection-start-column="11" selection-end-line="24" selection-end-column="11" />
+          <first_editor relative-caret-position="185">
+            <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
           </first_editor>
           <second_editor />
         </state>
