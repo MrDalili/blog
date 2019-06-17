@@ -351,9 +351,9 @@ System.out.println("i like markdown");
 
 
 
-[1]: http://ningdali.com "你把鼠标移动到我上面啦，羞羞耶，我叫长颈鹿"
+[1]: https://ningdali.com "你把鼠标移动到我上面啦，羞羞耶，我叫长颈鹿"
 [2]: https://github.com/MrDalili "你把鼠标移动到我上面啦，羞羞耶，我叫github"
-[3]: http://qiniuyun.ningdali.com/1966markdown.png "一定要按语法规范呀"
+[3]: https://qiniuyun.ningdali.com/1966markdown.png "一定要按语法规范呀"
 
 
 

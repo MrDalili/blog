@@ -42,8 +42,8 @@ JRebel是一款用于javaEE开发的工具。它是一个可以实现热部署�
 
 
 
-[1]: http://qiniuyun.ningdali.com/1967JRebel.png	"点击安装"
-[2]: http://qiniuyun.ningdali.com/1967JRebel1.png	"配置IDEA"
-[3]: http://qiniuyun.ningdali.com/1967JRebel2.png	"配置自动编译"
-[4]: http://qiniuyun.ningdali.com/1967JRebel3.png	"生成JRebel配置文件"
-[5]: http://qiniuyun.ningdali.com/1967JRebel4.png	"按钮"
+[1]: https://qiniuyun.ningdali.com/1967JRebel.png	"点击安装"
+[2]: https://qiniuyun.ningdali.com/1967JRebel1.png	"配置IDEA"
+[3]: https://qiniuyun.ningdali.com/1967JRebel2.png	"配置自动编译"
+[4]: https://qiniuyun.ningdali.com/1967JRebel3.png	"生成JRebel配置文件"
+[5]: https://qiniuyun.ningdali.com/1967JRebel4.png	"按钮"

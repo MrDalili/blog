@@ -38,7 +38,7 @@ music:
   autoplay: false   # 自动播放
 
 # 友链页头像占位图
-avatar_placeholder: http://47.103.14.73:8080/docs/image/biglogo.jpg
+avatar_placeholder: https://qiniuyun.ningdali.com/mybloglogo/camelopard.jpg
 
 # 日期格式 http://momentjs.com/docs/
 date_format: 'YYYY-MM-DD' # 文章发布日期的格式
@@ -60,7 +60,7 @@ cover:
   scheme: search    # 后期将会提供多种封面方案
   # height: half      # full（默认值）: 首页封面占据整个第一屏幕，其他页面占半个屏幕高度， half: 所有页面都封面都只占半个屏幕高度
   title: "Camelopard Ning's Blog 🦒"
-  logo: http://47.103.14.73:8080/docs/image/biglogo.jpg    # logo和title只显示一个，若同时设置，则只显示logo
+  logo: https://qiniuyun.ningdali.com/mybloglogo/favicon.ico   # logo和title只显示一个，若同时设置，则只显示logo
   # search_placeholder: '搜索'
   # 主页封面菜单
   features:
@@ -136,7 +136,7 @@ body: [article, comments]
 # 侧边栏小部件，默认按下面给定的顺序全部显示，文章中还可以自定义显示一部分以及顺序
 sidebar:
   - widget: author
-    avatar: http://47.103.14.73:8080/docs/image/biglogo.jpg
+    avatar: https://qiniuyun.ningdali.com/mybloglogo/camelopard.jpg
     social: true
   - widget: toc
   - widget: grid
