@@ -3,8 +3,9 @@ title: 买卖股票的最佳时机II
 date: 2019-06-08 11:08:28
 tags:
 - 算法
-- 领口
-categories: 算法学习
+categories: 
+[算法,数组]
+[leetCode]
 ---
 
 ### 买卖股票的最佳时机II
