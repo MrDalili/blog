@@ -50,7 +50,7 @@ backstretch:
   duration: 6000 # 持续时间（毫秒）
   fade: 2500     # 渐变（毫秒）
   images:
-    - https://img.vim-cn.com/6d/a0c9e6f9efad8b731cb7376504bd10d79d2053.jpg
+    - https://qiniuyun.ningdali.com/mybloglogo/background.png
 
 
 
@@ -60,7 +60,7 @@ cover:
   scheme: search    # 后期将会提供多种封面方案
   # height: half      # full（默认值）: 首页封面占据整个第一屏幕，其他页面占半个屏幕高度， half: 所有页面都封面都只占半个屏幕高度
   title: "Camelopard Ning's Blog 🦒"
-  logo: https://qiniuyun.ningdali.com/mybloglogo/favicon.ico   # logo和title只显示一个，若同时设置，则只显示logo
+  logo: https://qiniuyun.ningdali.com/mybloglogo/camelopard.jpg   # logo和title只显示一个，若同时设置，则只显示logo
   # search_placeholder: '搜索'
   # 主页封面菜单
   features:
