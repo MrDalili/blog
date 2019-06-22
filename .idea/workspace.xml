@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5cf83dd-51af-4476-b149-07e96af1a6e7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/material-x/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/material-x/_config.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -50,8 +49,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/material-x/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="483">
-              <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+            <state relative-caret-position="437">
+              <caret line="52" column="61" selection-start-line="52" selection-start-column="61" selection-end-line="52" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -276,12 +275,12 @@
       <workItem from="1561165284510" duration="358000" />
       <workItem from="1561183322392" duration="205000" />
       <workItem from="1561183546684" duration="2260000" />
-      <workItem from="1561214796896" duration="100000" />
+      <workItem from="1561214796896" duration="828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66754000" />
+    <option name="totallyTimeSpent" value="67482000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2728" y="-8" width="1936" height="1056" extended-state="6" />
@@ -758,8 +757,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/material-x/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        <state relative-caret-position="437">
+          <caret line="52" column="61" selection-start-line="52" selection-start-column="61" selection-end-line="52" selection-end-column="61" />
         </state>
       </provider>
     </entry>

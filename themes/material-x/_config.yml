@@ -50,7 +50,7 @@ backstretch:
   duration: 6000 # 持续时间（毫秒）
   fade: 2500     # 渐变（毫秒）
   images:
-    - https://qiniuyun.ningdali.com/mybloglogo/background.png
+    - https://qiniuyun.ningdali.com/mybloglogo/background.jpg
 
 
 
