@@ -3,9 +3,9 @@ title: 手写JVM开始之小白启航
 date: 2019-06-22 14:03:06
 tags:
 - JVM学习
-- java  
+- Java  
 categories:  
-- [java,JVM学习]
+- [Java,JVM学习]
 ---
 ## 我为什么想去自己实现一个JVM虚拟机
 

@@ -3,9 +3,9 @@ title: JVM学习大纲
 date: 2019-06-18 22:49:13
 tags:
 - JVM学习  
-- java  
+- Java  
 categories: 
-- [java,JVM学习]
+- [Java,JVM学习]
 ---
 ## 学习方式
 

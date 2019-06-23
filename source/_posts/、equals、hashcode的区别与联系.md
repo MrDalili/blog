@@ -2,9 +2,9 @@
 title: ==、equals()、hashcode()的区别与联系（一）
 date: 2019-06-06 07:54:23
 tags:
-- java
-- java面试题
-categories: java学习
+- Java
+- Java面试题
+categories: Java学习
 ---
 这个题目是我在大三下学期刚开学的时候就听舍友说了，但是没去深入学习,今天来将这个知识点给他攻破.
 

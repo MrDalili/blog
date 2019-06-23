@@ -3,9 +3,9 @@ title: 手写JVM之简单的终端命令分析
 date: 2019-06-22 14:07:00
 tags:
 - JVM学习
-- java  
+- Java  
 categories:  
-- [java,JVM学习]
+- [Java,JVM学习]
 ---
 
 在命令行中，Java是可以用命令进行调用，所以我们先使用go语言来编写一个很简单的，可以查看vision的命令工具，如下图  

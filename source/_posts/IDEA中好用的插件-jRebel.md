@@ -3,7 +3,7 @@ title: IDEA中好用的插件------jRebel
 date: 2019-06-07 19:56:58
 tags:
 - 教程
-- java
+- Java
 - IDEA插件
 categories: 教程
 ---

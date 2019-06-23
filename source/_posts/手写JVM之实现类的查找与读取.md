@@ -3,9 +3,9 @@ title: 手写JVM之实现类的查找与读取
 date: 2019-06-22 14:07:22
 tags:
 - JVM学习
-- java  
+- Java  
 categories:  
-- [java,JVM学习]
+- [Java,JVM学习]
 ---
 
 在上一讲中，我们实现了通过传入命令的方式去启动java的虚拟机，或者查看版本等功能，那么这一讲主要就是通过程序告诉你虚拟机是如何加载一个class文件的。  
