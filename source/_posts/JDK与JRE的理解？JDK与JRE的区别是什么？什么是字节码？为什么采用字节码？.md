@@ -15,6 +15,8 @@ categories:
 
 JDK是 Java Development Kit，是一个功能齐全的Java SDK。它拥有JRE所拥有的一切，还有Java的编译器(javac)和工具(javadoc与jdb)。
 
+<!--more-->
+
 ### JRE
 
 JRE是Java运行时的环境。它是运行已经被编译的Java程序所需的所有内容的集合，包括Java虚拟机（JVM），Java类库，Java命令和其他的一些基础构件。但它不可以编写程序，它只能运行程序。
