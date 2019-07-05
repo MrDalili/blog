@@ -2,6 +2,11 @@
 title: String str="abcd"与 String str1=new String("acbd")一样吗？str和str1相等吗?
 date: 2019-06-25 20:59:46
 tags:
+- Java
+- 面试
+- Java基础
+categories:
+-[Java,面试]
 ---
 
 这俩种方法创建字符串对象事有一定的区别：

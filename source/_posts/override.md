@@ -1,12 +1,19 @@
 ---
-title: 重载和重写的区别?构造器 Constructor 是否可被 override??
+title: 重载和重写的区别?构造器 Constructor 是否可被 override?
 date: 2019-06-25 20:36:01
 tags:
+- Java
+- 面试
+- Java基础
+categories:
+-[Java,面试]
 ---
 
 + 重载：
 
   + 一般发生在一个类中
+
+<!--more-->
 
     + 方法名相同（必须）
 
