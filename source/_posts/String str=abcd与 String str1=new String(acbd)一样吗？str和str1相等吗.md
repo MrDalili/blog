@@ -6,7 +6,7 @@ tags:
 - 面试
 - Java基础
 categories:
--[Java,面试]
+- [Java,面试]
 ---
 
 这俩种方法创建字符串对象事有一定的区别：
