@@ -8,7 +8,7 @@ links:
     items:
     - name: 健力宝的博客
       avatar: http://47.103.14.73:8080/docs/image/jianlibao.jpg
-      url: https://zouchanglin.cn/
+      url: http://zouchanglin.cn/
       backgroundColor: '#3E74C9'
       textColor: '#fff'
       tags:
