@@ -77,8 +77,8 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/回家后的闲谈.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="207">
-                <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
+              <first_editor relative-caret-position="230">
+                <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
               </first_editor>
               <second_editor />
             </state>
@@ -332,15 +332,15 @@
       <workItem from="1561904563916" duration="829000" />
       <workItem from="1562312874185" duration="4737000" />
       <workItem from="1562424891848" duration="735000" />
-      <workItem from="1563378302811" duration="389000" />
+      <workItem from="1563378302811" duration="2710000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87295000" />
+    <option name="totallyTimeSpent" value="89616000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1839" height="1191" extended-state="7" />
+    <frame x="-7" y="-7" width="1839" height="1191" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17692734" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -807,8 +807,8 @@
     <entry file="file://$PROJECT_DIR$/source/_posts/回家后的闲谈.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="207">
-            <caret line="9" column="68" selection-start-line="9" selection-start-column="68" selection-end-line="9" selection-end-column="68" />
+          <first_editor relative-caret-position="230">
+            <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
           </first_editor>
           <second_editor />
         </state>
